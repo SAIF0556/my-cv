@@ -82,15 +82,21 @@ p{
   float: left;
   margin-right: 70px;
 }
+.backend-logo {
+  height: 140px;
+  float: right;
+  margin-left: 70px;
+}
 .softskill-logo{
   height: 140px;
-  float: left;
-  margin-right: 50px;
+  float: right;
+  margin-left: 50px;
 }
 .language-logo{
   height: 140px;
-  float: right;
-  margin-left: 5px;
+  float: left;
+  margin-right: 70px;
+  
   padding: 0;
 }
 /* .footer-link{
@@ -107,13 +113,27 @@ p{
   margin-top: 50px;
   padding-top : 40px;
 }
+.back-end-text{
+  margin-top: 70px;
+  margin-left: 210px;
+  padding-top : 40px;
+}
+.backend-description
+{
+  margin-left: 210px;
+}
+
 .programming-language-text{
   margin-top: 70px;
   padding-top : 40px;
 }
 .softskill-text{
   margin-top: 70px;
+  margin-left: 210px;
   padding-top : 15px;
+}
+.softskill-description{
+  margin-left: 210px;
 }
 .contact-message{
   width: 40%;
